@@ -1,0 +1,6 @@
+Django==3.2.25
+geopy
+requests
+twilio
+python-dotenv
+Pillow
